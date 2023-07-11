@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="18" height="24" viewBox="0 0 18 24">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #be0101;
+      }
+    </style>
+  </defs>
+  <path id="saved_nabar_light" class="cls-1" d="M0,0H18V24L9,15,0,24Z"/>
+</svg>

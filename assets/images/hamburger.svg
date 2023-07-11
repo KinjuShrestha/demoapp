@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="14.078" height="12.892" viewBox="0 0 14.078 12.892">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #fff;
+        stroke-linecap: round;
+        stroke-width: 2px;
+      }
+    </style>
+  </defs>
+  <g id="hamburger_top" transform="translate(8992.594 24.941)">
+    <path id="Path_104644" data-name="Path 104644" class="cls-1" d="M-8991.816-24.941h12.076" transform="translate(0.224 1)"/>
+    <path id="Path_104645" data-name="Path 104645" class="cls-1" d="M0,0H6.2" transform="translate(-8991.592 -18.496)"/>
+    <path id="Path_104646" data-name="Path 104646" class="cls-1" d="M-8991.816-24.941h12.078" transform="translate(0.223 11.892)"/>
+  </g>
+</svg>

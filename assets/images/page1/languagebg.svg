@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="375" height="380.424" viewBox="0 0 375 380.424">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" y1="-0.259" x2="0.5" y2="0.478" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#0c9df4"/>
+      <stop offset="1" stop-color="#0c9df4" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.51" y1="1.779" x2="0.499" y2="0.381" xlink:href="#linear-gradient"/>
+  </defs>
+  <g id="Group_17738" data-name="Group 17738" transform="translate(-1202 -1203)">
+    <path id="Path_104445" data-name="Path 104445" d="M373.37-271.287v70.814l11.98,11.1v162.7H243.892l-7-6.485H151.107l-7,6.485H40.35V-128.834l8.874-8.223v-30.231l-8.874-8.223V-339.8l37.22-34.489H385.35v91.9Z" transform="translate(1176.65 1594.011)" fill="#003162"/>
+    <path id="Path_104464" data-name="Path 104464" d="M373.37-271.287v70.814l11.98,11.1v162.7H243.892l-7-6.485H151.107l-7,6.485H40.35V-128.834l8.874-8.223v-30.231l-8.874-8.223V-339.8l37.22-34.489H385.35v91.9Z" transform="translate(1176.65 1594.011)" fill="url(#linear-gradient)"/>
+    <g id="Component_11_1" data-name="Component 11 – 1" transform="translate(1217 1219.724)">
+      <path id="Path_104465" data-name="Path 104465" d="M373.37-271.287v70.814l11.98,11.1v162.7H243.892l-7-6.485H151.107l-7,6.485H40.35V-128.834l8.874-8.223v-30.231l-8.874-8.223V-339.8l37.22-34.489H385.35v91.9Z" transform="translate(-40.35 374.287)" fill="url(#linear-gradient-2)"/>
+    </g>
+    <path id="Path_104446" data-name="Path 104446" d="M382.355-281.794v-95.494H75.842L37.355-341.269v165.232L46.04-167.9v27.249l-8.685,8.136V-26.864H143.911l6.859-6.417h81.212l6.859,6.417H382.355V-192.418L370.614-203.4V-270.81Zm-3.447,90.709v161H240.277l-6.859-6.417H149.345l-6.859,6.417H40.8V-131.182l8.7-8.137v-29.914l-8.7-8.137V-339.936l36.476-34.128H378.908v90.936l-11.741,10.985v70.072Z" transform="translate(1179.645 1595.288)" fill="#0c9df4"/>
+    <path id="Path_104447" data-name="Path 104447" d="M382.355-281.794v-95.494H75.842L37.355-341.269v165.232L46.04-167.9v27.249l-8.685,8.136V-26.864H143.911l6.859-6.417h81.212l6.859,6.417H382.355V-192.418L370.614-203.4V-270.81Zm-3.447,90.709v161H240.277l-6.859-6.417H149.345l-6.859,6.417H40.8V-131.182l8.7-8.137v-29.914l-8.7-8.137V-339.936l36.476-34.128H378.908v90.936l-11.741,10.985v70.072Z" transform="translate(1179.645 1595.288)" fill="#0c9df4"/>
+  </g>
+</svg>
